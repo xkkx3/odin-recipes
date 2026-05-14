@@ -1,0 +1,1 @@
+So far I have learned the several elements of HTML as well as attributes for those elements. I have learned how to set up the boilerplate for HTML, and then how to link it to different pages and bring in images!
